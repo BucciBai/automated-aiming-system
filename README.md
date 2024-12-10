@@ -1,12 +1,12 @@
-##Automated Aiming Device Simulation
+# Automated Aiming Device Simulation
 
 
-#Project Overview：
+## Project Overview：
 
 This project demonstrates a simulation-based automated aiming system. The system uses PyBullet for robotic arm simulation, integrates a virtual camera for target detection, and employs a control algorithm to track and aim at a moving target.
 
 
-#The key features include:
+## The key features include:
 
 A robotic arm simulation using the KUKA iiwa URDF model.
 
@@ -15,7 +15,7 @@ Real-time target tracking with smooth movements.
 Simulation of environmental constraints (e.g., obstacles).
 
 
-#Dependencies：
+## Dependencies：
 
 The project relies on the following Python libraries:
 
@@ -24,7 +24,7 @@ PyBullet (version 3.25): For physics simulation.
 Numpy: For numerical computations
 
 
-#Features：
+## Features：
 
 Robotic Arm Simulation:
 
@@ -42,7 +42,7 @@ Virtual Camera Integration:
 
 Simulates a camera to detect and track the target.
 
-How to Run the Project:
+## How to Run the Project:
 
 Clone https://github.com/BucciBai/pybullet_robots.git
 
@@ -51,7 +51,7 @@ Then copy all files into the pybullet_robots, then RUN the Project.py
 ## I tried to upload all .json files but they are too big to upload. But the Project.py code will use resources from the library directly.
 
 
-References：
+## References：
 
 PyBullet Documentation: https://pybullet.org/
 
