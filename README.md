@@ -23,6 +23,7 @@ PyBullet (version 3.25): For physics simulation.
 
 Numpy: For numerical computations
 
+
 Features：
 
 Robotic Arm Simulation:
@@ -40,6 +41,12 @@ Ensures the robot arm avoids aiming at obstructed targets using ray-casting.
 Virtual Camera Integration:
 
 Simulates a camera to detect and track the target.
+
+How to Run the Project:
+
+Clone https://github.com/BucciBai/pybullet_robots.git
+
+Then copy all files into the pybullet_robots, then RUN the Project.py
 
 
 References：
