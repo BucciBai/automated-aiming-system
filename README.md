@@ -48,6 +48,8 @@ Clone https://github.com/BucciBai/pybullet_robots.git
 
 Then copy all files into the pybullet_robots, then RUN the Project.py
 
+## I tried to upload all .json files but they are too big to upload. But the Project.py code will use resources from the library directly.
+
 
 References：
 
